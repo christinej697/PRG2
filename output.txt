@@ -1,0 +1,1 @@
+Decoded string: snakes swim sassily
